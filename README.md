@@ -3,7 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Screenshots
 
 
-![WhatsApp Image 2024-09-11 at 12 42 12_8860cf05-portrait](https://github.com/user-attachments/assets/a1592e78-74ba-49db-818e-a31670ecabd0)
+
 
 # Getting Started
 
