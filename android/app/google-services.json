@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477679149937",
+    "project_id": "ai-image-91349",
+    "storage_bucket": "ai-image-91349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477679149937:android:51ddf254b83a02e5cf8cd0",
+        "android_client_info": {
+          "package_name": "com.imagegenius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477679149937-t2lhnsd1mt18oa1fae1qhp7enlt6gloi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rxnwG99Q85xidwki7mVNGI9dv__FqZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477679149937-t2lhnsd1mt18oa1fae1qhp7enlt6gloi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
