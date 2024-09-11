@@ -47,7 +47,7 @@ const HomeScreen = () => {
   const handleGenerate = async () => {
     try {
       const response = await fetch(
-        'https://ai-image-backend-1x0d.onrender.com/api/generate',
+        'http://10.0.2.2:4000/api/generate',
         {
           method: 'POST',
           headers: {
